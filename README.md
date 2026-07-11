@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Navya! 👋
 
-<!--
-**Navya-kalla/Navya-kalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student passionate about **Data Engineering** and **AI Engineering**. I love building intelligent systems, transforming raw data into insights, and creating practical AI solutions for real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Project
+
+#### 🤖 [InfluencerMatch AI](https://github.com/YOUR_GITHUB_USERNAME/InfluencerMatch-AI)
+*A platform designed to help small businesses seamlessly discover and match with the perfect influencers to promote their products.*
+* **Core Focus:** Leveraging data and AI to bridge the gap between niche brands and digital creators.
+* **Tech Used:** Python, Data Analysis, Matching Algorithms.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+* **Languages:** Python, SQL
+* **Data Science & Engineering Libraries:** Pandas, NumPy
+* **Tools & Workflow:** Git, GitHub, VS Code
+
+### 📈 GitHub Stats
+
+![Navya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial)
+
+---
+
+### 📬 Let's Connect!
+* **Email:** [navya.poojitha.7@gmail.com]
