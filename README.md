@@ -21,7 +21,7 @@ I am a student passionate about **Data Engineering** and **AI Engineering**. I l
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Navya-kalla&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Navya-kalla&theme=radical)
 ---
 
 ### 📬 Let's Connect!
